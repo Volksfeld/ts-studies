@@ -1,6 +1,7 @@
 
 # Project made while watching Rocketseat's Typescript with ReactJS, Redux and Saga class. 
 
+## https://www.youtube.com/watch?v=OXxul6AvXNs&t=1360s
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
